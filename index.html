@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anotar Dívidas</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Anotar Dívidas</h1>
+    </header>
+    <main>
+        <form>
+            <label for="nome" class="nome">Nome:</label>
+            <input id="nome" type="text" class="nome" name="nome" required>
+            <label for="valor" class="valor">Valor:</label>
+            <input type="number" id="valor" name="valor" required>
+            <label for="data" class="data">Data:</label>
+            <input type="date" id="data" name="data" required>
+            <button type="submit">Adicionar Dívida</button>
+        </form>
+        <table>
+            <thead>
+                <tr>
+                    <th>Nome</th>
+                    <th>Valor</th>
+                    <th>Data</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Os dados das dívidas serão adicionados dinamicamente aqui -->
+            </tbody>
+        </table>
+    </main>
+    <script src="js/javaScript.js"></script>
+</body>
+</html>
