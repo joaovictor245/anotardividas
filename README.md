@@ -1,3 +1,5 @@
+![Logo do Meu Projeto](https://cdn.discordapp.com/attachments/1175249252771958844/1193046290448261200/Anotar_divida.png?ex=65ab49f1&is=6598d4f1&hm=56971be2be3fa90caf4b39cc50f51096ca82bed8b1234ba6f3c23faa31276cd4&)
+
 # Anotar Dívidas
 
 Bem-vindo ao "Anotar Dívidas" - uma aplicação simples para acompanhar suas dívidas de maneira organizada. Registre facilmente os detalhes das suas dívidas, visualize-as em uma tabela intuitiva e edite conforme necessário. Utilize este projeto como ponto de partida para gerenciar suas finanças pessoais de forma eficiente.
