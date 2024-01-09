@@ -1,4 +1,4 @@
-![Logo do Meu Projeto](https://cdn.discordapp.com/attachments/1175249252771958844/1193046290448261200/Anotar_divida.png?ex=65ab49f1&is=6598d4f1&hm=56971be2be3fa90caf4b39cc50f51096ca82bed8b1234ba6f3c23faa31276cd4&)
+![Logo do Meu Projeto](https://cdn.discordapp.com/attachments/1175249252771958844/1194099274611425350/Anotar_divida_upgrade.png?ex=65af1e9c&is=659ca99c&hm=722aa45e27e2963065aec4ea898b51f6231158614be164d23e0a5af7f6a4e08c&)
 
 # Anotar Dívidas
 
@@ -23,3 +23,6 @@ Bem-vindo ao "Anotar Dívidas" - uma aplicação simples para acompanhar suas d�
 2. Abra o arquivo `index.html` no seu navegador.
 
 Sinta-se à vontade para explorar, contribuir e personalizar conforme necessário. Esperamos que esta aplicação torne o gerenciamento de dívidas uma tarefa fácil e eficiente!
+
+## 1. Atualização na interface
+- Fiz um upgrade na interface do `index.html` e do `style.css` pra deixá lo mas moderno
